@@ -94,7 +94,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('images/woodentrout.jpg') no-repeat;
+	background: url('woodentrout.jpg') no-repeat;
 	background-size: contain;
 	background-position:center;
     position: absolute;
